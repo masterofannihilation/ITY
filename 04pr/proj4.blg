@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: proj4.aux
+The style file: czechiso.bst
+Database file #1: lib.bib
+Warning--to sort, need author or key in fuse
+Warning--empty author in fuse
+Warning--empty title in fuse
+Warning--there's a number but no volume in fuse
+Warning--there's a number but no volume in trousil2015didaktik
+You've used 10 entries,
+            2631 wiz_defined-function locations,
+            635 strings with 6061 characters,
+and the built_in function-call counts, 3627 in all, are:
+= -- 268
+> -- 64
+< -- 1
++ -- 28
+- -- 18
+* -- 189
+:= -- 477
+add.period$ -- 42
+call.type$ -- 10
+change.case$ -- 42
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 361
+empty$ -- 358
+format.name$ -- 18
+if$ -- 754
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 94
+newline$ -- 67
+num.names$ -- 18
+pop$ -- 127
+preamble$ -- 1
+purify$ -- 29
+quote$ -- 0
+skip$ -- 66
+stack$ -- 0
+substring$ -- 138
+swap$ -- 214
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 36
+warning$ -- 5
+while$ -- 23
+width$ -- 12
+write$ -- 141
+(There were 5 warnings)

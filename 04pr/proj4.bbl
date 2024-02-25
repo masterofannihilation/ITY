@@ -1,0 +1,77 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{fuse}
+\emph{Graphic Design USA}, (4), 2021.
+\newblock ISSN 0274-7499.
+
+\bibitem{legge2011size}
+Legge~G. a~Bigelow~C.
+\newblock Does print size matter for reading? {A} review of findings from
+  vision science and typography.
+\newblock \emph{Journal of Vision}, 5(8):1--22, 2011.
+\newblock ISSN 1534-7362.
+\newblock Dostupn{\'e} z: \url{bit.ly/3MOBJMh}.
+
+\bibitem{ambrose2005basics}
+P.~Ambrose G.~a Harris.
+\newblock \emph{Basics Design 03: Typography}.
+\newblock 1. Lausanne: AVA Publishing, 1. vydání, 2005.
+\newblock ISBN 9782940373352.
+
+\bibitem{ralich1998typografie}
+Rajlich J.
+\newblock Typografie prelomu tisícilet{\'i}.
+\newblock \emph{Zpravodaj {\v{C}}eskoslovensk{\'e}ho sdruen{\'i}
+  u{\v{z}}ivatelu TeXu}, 8(3-4):129--137, 1998.
+\newblock ISSN 1211-6661.
+\newblock Dostupn{\'e} z: \url{bit.ly/3GQ0Tqi}.
+
+\bibitem{trousil2015didaktik}
+Trousil J.
+\newblock Didaktick{\'a} typografie ve v{\'y}uce a tvorb{\v{e}} u{\v{c}}ebnich
+  textu.
+\newblock \emph{Paidagogos}, (2):47--59, 2015.
+\newblock ISSN 1213-3809.
+\newblock Dostupn{\'e} z:
+  \url{http://www.paidagogos.net/issues/2015/2/article.php?id=3}.
+
+\bibitem{ideo}
+Bc.~Ponec M.
+\newblock \emph{Meziválečná typografie jako specifický nástroj
+  modernistické, ideologie}.
+\newblock Diplomová práce, Filozofická fakulta MUNI, Brno, Česká
+  Republika, 2013.
+\newblock Dostupné z: \url{bit.ly/3A1gWh2}.
+
+\bibitem{rybička1995latex}
+J.~Rybi{\v{c}}ka.
+\newblock \emph{LATEX pro za{\v{c}}{\'a}te{\v{c}}n{\'\i}ky}, ročník~1.
+\newblock Brno: Konvoj, 3. vydání, 2003.
+\newblock ISBN 9788085615425.
+
+\bibitem{neon}
+Bachorecova Z.
+\newblock \emph{Neóny v kontexte reklamnej typografie v Bratislave do roku
+  1989}.
+\newblock Bakalářská práce, Filozofická fakulta MUNI, Brno, Česká
+  Republika, 2019.
+\newblock Dostupné z: \url{bit.ly/3GQXOGh}.
+
+\bibitem{abstract}
+Loring~Murphy Z.
+\newblock Fragmentations of form \& {S}pace in the explorations of {N}atasha
+  {L}ucas.
+\newblock \emph{TypeOne}, 1(1):81--85, 2020.
+\newblock ISSN 2635-0335.
+
+\bibitem{serif}
+Loring~Murphy Z.
+\newblock Serif killers: the comeback of serif fonts in 2020.
+\newblock \emph{TypeOne}, 1(1):25--27, 2020.
+\newblock ISSN 2635-0335.
+
+\end{thebibliography}
